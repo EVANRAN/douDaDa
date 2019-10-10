@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/douDaDa/static/css/main.4fb78f1a.chunk.css",
+    "main.js": "/douDaDa/static/js/main.5a51f225.chunk.js",
+    "main.js.map": "/douDaDa/static/js/main.5a51f225.chunk.js.map",
+    "runtime-main.js": "/douDaDa/static/js/runtime-main.91834a1f.js",
+    "runtime-main.js.map": "/douDaDa/static/js/runtime-main.91834a1f.js.map",
+    "static/css/2.ce252ba7.chunk.css": "/douDaDa/static/css/2.ce252ba7.chunk.css",
+    "static/js/2.722dff6c.chunk.js": "/douDaDa/static/js/2.722dff6c.chunk.js",
+    "static/js/2.722dff6c.chunk.js.map": "/douDaDa/static/js/2.722dff6c.chunk.js.map",
+    "index.html": "/douDaDa/index.html",
+    "precache-manifest.91e8a32977f93e3593c7caa246c60c14.js": "/douDaDa/precache-manifest.91e8a32977f93e3593c7caa246c60c14.js",
+    "service-worker.js": "/douDaDa/service-worker.js",
+    "static/css/2.ce252ba7.chunk.css.map": "/douDaDa/static/css/2.ce252ba7.chunk.css.map",
+    "static/css/main.4fb78f1a.chunk.css.map": "/douDaDa/static/css/main.4fb78f1a.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91834a1f.js",
+    "static/css/2.ce252ba7.chunk.css",
+    "static/js/2.722dff6c.chunk.js",
+    "static/css/main.4fb78f1a.chunk.css",
+    "static/js/main.5a51f225.chunk.js"
+  ]
+}

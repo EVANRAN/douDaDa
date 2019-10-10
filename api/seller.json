@@ -1,0 +1,284 @@
+{
+  "result": {
+      "talentSalesRankResList": [
+          {
+              "id": 19050,
+              "dyuserId": "000yEz2P",
+              "douyinId": 57898643499,
+              "douyinName": "都市大医生",
+              "goodsWindowId": 650659,
+              "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2d4100002f5108be9d4b1.jpeg",
+              "rank": 1,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 1,
+              "talentMessageDTO": {
+                  "fansNumber": 2480483,
+                  "ttFansNumber": 0,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 2480483,
+                  "likeNumber": 3477417,
+                  "videoNumber": 15,
+                  "productCount": 15,
+                  "tagsName": [
+                      "知识"
+                  ]
+              }
+          },
+          {
+              "id": 19051,
+              "dyuserId": "00Q9fSLD",
+              "douyinId": 67579558320,
+              "douyinName": "牛肉哥严选",
+              "goodsWindowId": 474674,
+              "avatar": "https://p9-dy.byteimg.com/aweme/100x100/2865c00032be246651304.jpeg",
+              "rank": 2,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 172,
+              "talentMessageDTO": {
+                  "fansNumber": 5256320,
+                  "ttFansNumber": 0,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 5256320,
+                  "likeNumber": 34312319,
+                  "videoNumber": 3454,
+                  "productCount": 353,
+                  "tagsName": [
+                      "好物"
+                  ]
+              }
+          },
+          {
+              "id": 19052,
+              "dyuserId": "000FTq6R",
+              "douyinId": 105988200756,
+              "douyinName": "于子蛟好物分享（美食）四季食堂",
+              "goodsWindowId": 341549,
+              "avatar": "https://p3-dy.byteimg.com/aweme/100x100/2db630006011a650fb934.jpeg",
+              "rank": 3,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 7,
+              "talentMessageDTO": {
+                  "fansNumber": 86321,
+                  "ttFansNumber": 0,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 86321,
+                  "likeNumber": 286154,
+                  "videoNumber": 26,
+                  "productCount": 17,
+                  "tagsName": [
+                      "美食",
+                      "种草"
+                  ]
+              }
+          },
+          {
+              "id": 19053,
+              "dyuserId": "00PKVUC1",
+              "douyinId": 83307044560,
+              "douyinName": "陈三废gg",
+              "goodsWindowId": 66320,
+              "avatar": "https://p3-dy.byteimg.com/aweme/100x100/1722f00039b6483f26311.jpeg",
+              "rank": 4,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 60,
+              "talentMessageDTO": {
+                  "fansNumber": 13514698,
+                  "ttFansNumber": 417814,
+                  "hsFansNumber": 1525,
+                  "totalFansNumber": 13934037,
+                  "likeNumber": 197993469,
+                  "videoNumber": 377,
+                  "productCount": 69,
+                  "tagsName": [
+                      "搞笑"
+                  ]
+              }
+          },
+          {
+              "id": 19054,
+              "dyuserId": "00QNYoSN",
+              "douyinId": 81939158402,
+              "douyinName": "李佳琦Austin",
+              "goodsWindowId": 10067,
+              "avatar": "https://p3-dy.byteimg.com/aweme/100x100/1b4c60002de7b2b56f5c0.jpeg",
+              "rank": 5,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 175,
+              "talentMessageDTO": {
+                  "fansNumber": 32449107,
+                  "ttFansNumber": 450319,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 32899426,
+                  "likeNumber": 191753824,
+                  "videoNumber": 244,
+                  "productCount": 24,
+                  "tagsName": [
+                      "美妆"
+                  ]
+              }
+          },
+          {
+              "id": 19055,
+              "dyuserId": "00qdeF7M",
+              "douyinId": 57146617774,
+              "douyinName": "呗呗兔_",
+              "goodsWindowId": 10448,
+              "avatar": "https://p9-dy.byteimg.com/aweme/100x100/171880004d505ab1510f2.jpeg",
+              "rank": 6,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 88,
+              "talentMessageDTO": {
+                  "fansNumber": 9000301,
+                  "ttFansNumber": 56442,
+                  "hsFansNumber": 291316,
+                  "totalFansNumber": 9348059,
+                  "likeNumber": 36956787,
+                  "videoNumber": 233,
+                  "productCount": 119,
+                  "tagsName": [
+                      "美女",
+                      "美妆",
+                      "主播"
+                  ]
+              }
+          },
+          {
+              "id": 19056,
+              "dyuserId": "00QKj0zV",
+              "douyinId": 2308616219801432,
+              "douyinName": "雪梨姐姐",
+              "goodsWindowId": 309714,
+              "avatar": "https://p1-dy.byteimg.com/aweme/100x100/2dd300002e874b0fae6ac.jpeg",
+              "rank": 7,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 0,
+              "talentMessageDTO": {
+                  "fansNumber": 9454,
+                  "ttFansNumber": 337,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 9791,
+                  "likeNumber": 121063,
+                  "videoNumber": 1,
+                  "productCount": 0,
+                  "tagsName": [
+                      "美妆"
+                  ]
+              }
+          },
+          {
+              "id": 19057,
+              "dyuserId": "00PsWgZq",
+              "douyinId": 60602661676,
+              "douyinName": "白白叶叶☀️泰爱美",
+              "goodsWindowId": 20547,
+              "avatar": "https://p9-dy.byteimg.com/aweme/100x100/adbb0013f5253ff702d2.jpeg",
+              "rank": 8,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 55,
+              "talentMessageDTO": {
+                  "fansNumber": 1160410,
+                  "ttFansNumber": 46332,
+                  "hsFansNumber": 14,
+                  "totalFansNumber": 1206756,
+                  "likeNumber": 18095653,
+                  "videoNumber": 302,
+                  "productCount": 61,
+                  "tagsName": [
+                      "生活",
+                      "旅行"
+                  ]
+              }
+          },
+          {
+              "id": 19058,
+              "dyuserId": "00WRKsHl",
+              "douyinId": 2255818286177421,
+              "douyinName": "云夏好物购",
+              "goodsWindowId": 509695,
+              "avatar": "https://p9-dy.byteimg.com/aweme/100x100/1cb220004173e0741f70c.jpeg",
+              "rank": 9,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 0,
+              "talentMessageDTO": {
+                  "fansNumber": 1416,
+                  "ttFansNumber": 5,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 1421,
+                  "likeNumber": 57411,
+                  "videoNumber": 3,
+                  "productCount": 9,
+                  "tagsName": [
+                      "商贸",
+                      "种草"
+                  ]
+              }
+          },
+          {
+              "id": 19059,
+              "dyuserId": "00PpPlte",
+              "douyinId": 2308611851423614,
+              "douyinName": "叁佰的日常穿搭",
+              "goodsWindowId": 361332,
+              "avatar": "https://p9-dy.byteimg.com/aweme/100x100/23f4f00017089687056bc.jpeg",
+              "rank": 10,
+              "updateTime": 1570550400,
+              "extra": "",
+              "created": 1570593720,
+              "updated": 1570593720,
+              "isDeleted": 0,
+              "showCount": 12,
+              "talentMessageDTO": {
+                  "fansNumber": 1274063,
+                  "ttFansNumber": 0,
+                  "hsFansNumber": 0,
+                  "totalFansNumber": 1274063,
+                  "likeNumber": 3054506,
+                  "videoNumber": 57,
+                  "productCount": 85,
+                  "tagsName": [
+                      "穿搭"
+                  ]
+              }
+          }
+      ],
+      "count": 50
+  },
+  "msg": "succ",
+  "code": 1001
+}
