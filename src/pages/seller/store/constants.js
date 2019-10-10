@@ -1,0 +1,4 @@
+export const GET_UPDATE_TIME = 'SELLER/GET_UPDATE_TIME';
+export const FETCH_SELLER_DATA = 'SELLER/FETCH_SELLER_DATA';
+
+export const PAGE_SIZE = 10;
