@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/douDaDa/static/css/main.4fb78f1a.chunk.css",
-    "main.js": "/douDaDa/static/js/main.19e9b31e.chunk.js",
-    "main.js.map": "/douDaDa/static/js/main.19e9b31e.chunk.js.map",
+    "main.js": "/douDaDa/static/js/main.4a7b2604.chunk.js",
+    "main.js.map": "/douDaDa/static/js/main.4a7b2604.chunk.js.map",
     "runtime-main.js": "/douDaDa/static/js/runtime-main.91834a1f.js",
     "runtime-main.js.map": "/douDaDa/static/js/runtime-main.91834a1f.js.map",
     "static/css/2.ce252ba7.chunk.css": "/douDaDa/static/css/2.ce252ba7.chunk.css",
     "static/js/2.722dff6c.chunk.js": "/douDaDa/static/js/2.722dff6c.chunk.js",
     "static/js/2.722dff6c.chunk.js.map": "/douDaDa/static/js/2.722dff6c.chunk.js.map",
     "index.html": "/douDaDa/index.html",
-    "precache-manifest.a59771adc02bb81e0adc7f19c7f2f4eb.js": "/douDaDa/precache-manifest.a59771adc02bb81e0adc7f19c7f2f4eb.js",
+    "precache-manifest.3b3b1903fc6b651211b217a574ed0c09.js": "/douDaDa/precache-manifest.3b3b1903fc6b651211b217a574ed0c09.js",
     "service-worker.js": "/douDaDa/service-worker.js",
     "static/css/2.ce252ba7.chunk.css.map": "/douDaDa/static/css/2.ce252ba7.chunk.css.map",
     "static/css/main.4fb78f1a.chunk.css.map": "/douDaDa/static/css/main.4fb78f1a.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.ce252ba7.chunk.css",
     "static/js/2.722dff6c.chunk.js",
     "static/css/main.4fb78f1a.chunk.css",
-    "static/js/main.19e9b31e.chunk.js"
+    "static/js/main.4a7b2604.chunk.js"
   ]
 }
