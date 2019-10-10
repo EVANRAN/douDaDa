@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dbc1ea0e8bf1a760aaeb7707e15d42c0",
+    "revision": "d3b6d08b85eadb3f116be429af02271c",
     "url": "/douDaDa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/douDaDa/static/css/2.ce252ba7.chunk.css"
   },
   {
-    "revision": "92f1a0b49c700edc6fcf",
+    "revision": "e7444e594e2ba4d3b02b",
     "url": "/douDaDa/static/css/main.4fb78f1a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/douDaDa/static/js/2.722dff6c.chunk.js"
   },
   {
-    "revision": "92f1a0b49c700edc6fcf",
-    "url": "/douDaDa/static/js/main.5a51f225.chunk.js"
+    "revision": "e7444e594e2ba4d3b02b",
+    "url": "/douDaDa/static/js/main.19e9b31e.chunk.js"
   },
   {
     "revision": "71be2b5300b49c8b0844",
