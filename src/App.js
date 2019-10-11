@@ -4,6 +4,7 @@ import store from './store';
 import LeftNav from './common/leftNav';
 import {BrowserRouter, Route} from 'react-router-dom';
 import Seller from './pages/seller';
+import Home from './pages/home/Home';
 
 export class App extends Component {
   render() {
@@ -13,7 +14,8 @@ export class App extends Component {
           <div>
             <BrowserRouter>
               <LeftNav/>
-              <Route path='/' exact component={Seller}></Route>
+              <Route path='/' exact component={Home}></Route>
+              <Route path='/seller' exact component={Seller}></Route>
             </BrowserRouter>
           </div>
         </Provider>

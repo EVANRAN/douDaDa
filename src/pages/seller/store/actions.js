@@ -57,7 +57,7 @@ function bigNumToString(num){
 export const fetchSellerList = (page) => {
 
   return (dispatch) => {
-    axios.get('https://github.com/EVANRAN/douDaDa/blob/gh-pages/api/seller.json').then((res) => {
+    axios.get('https://raw.githubusercontent.com/EVANRAN/douDaDa/gh-pages/api/seller.json').then((res) => {
       const data = res.data;
       if(data['code'] === 1001){
         let result = data['result'];

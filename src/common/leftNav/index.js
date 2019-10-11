@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
-import { connect } from 'react-redux';
 import { Menu, Icon } from 'antd';
-import {Link} from 'react-router-dom';
+import {Link, withRouter} from 'react-router-dom';
 import './leftnav.less';
 
 const { SubMenu } = Menu;
@@ -13,18 +12,23 @@ export class LeftNav extends Component {
   };
 
   render() {
+    const { location } = this.props;
+    console.log(location)
     return (
       <div className='left_nav'>
         <Menu
         onClick={this.handleClick}
         style={{ width: 200 }}
-        defaultSelectedKeys={['1']}
+        selectedKeys={[location.pathname]}
         defaultOpenKeys={['sub0','sub1', 'sub2', 'sub4']}
         mode="inline"
       >
-        <Menu.Item key="0" >
+        <Menu.Item key="/" >
+        <Link to={'/'}>
           <Icon type="compass" />
-          工作台</Menu.Item>
+            工作台
+        </Link>
+          </Menu.Item>
         <SubMenu
           key="sub0"
           title={
@@ -48,7 +52,9 @@ export class LeftNav extends Component {
           }
         >
             <Menu.Item key="1">抖音好物榜 </Menu.Item>
-            <Menu.Item key="2">抖音达人销售榜 </Menu.Item>
+            <Menu.Item key="/seller">
+              <Link to={'/seller'}>抖音达人销售榜</Link>
+            </Menu.Item>
             <Menu.Item key="3">带货达人福利区 </Menu.Item>
         </SubMenu>
         <SubMenu
@@ -73,14 +79,7 @@ export class LeftNav extends Component {
   }
 }
 
-const mapStateToProps = (state) => ({
-  
-})
 
-const mapDispatchToProps = {
-  
-}
-
-export default connect(mapStateToProps, mapDispatchToProps)(LeftNav);
+export default withRouter(LeftNav);
 
 
